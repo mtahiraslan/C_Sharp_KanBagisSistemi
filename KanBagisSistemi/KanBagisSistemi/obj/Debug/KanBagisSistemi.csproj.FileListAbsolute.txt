@@ -1,0 +1,21 @@
+C:\Users\M.Tahir\OneDrive\Belgeler\Visual Studio 2013\Projects\KanBagisSistemi\KanBagisSistemi\bin\Debug\KanBagisSistemi.exe.config
+C:\Users\M.Tahir\OneDrive\Belgeler\Visual Studio 2013\Projects\KanBagisSistemi\KanBagisSistemi\bin\Debug\KanBagisSistemi.exe
+C:\Users\M.Tahir\OneDrive\Belgeler\Visual Studio 2013\Projects\KanBagisSistemi\KanBagisSistemi\bin\Debug\KanBagisSistemi.pdb
+C:\Users\M.Tahir\OneDrive\Belgeler\Visual Studio 2013\Projects\KanBagisSistemi\KanBagisSistemi\obj\Debug\KanBagisSistemi.csprojResolveAssemblyReference.cache
+C:\Users\M.Tahir\OneDrive\Belgeler\Visual Studio 2013\Projects\KanBagisSistemi\KanBagisSistemi\obj\Debug\KanBagisSistemi.Form1.resources
+C:\Users\M.Tahir\OneDrive\Belgeler\Visual Studio 2013\Projects\KanBagisSistemi\KanBagisSistemi\obj\Debug\KanBagisSistemi.Properties.Resources.resources
+C:\Users\M.Tahir\OneDrive\Belgeler\Visual Studio 2013\Projects\KanBagisSistemi\KanBagisSistemi\obj\Debug\KanBagisSistemi.csproj.GenerateResource.Cache
+C:\Users\M.Tahir\OneDrive\Belgeler\Visual Studio 2013\Projects\KanBagisSistemi\KanBagisSistemi\obj\Debug\KanBagisSistemi.exe
+C:\Users\M.Tahir\OneDrive\Belgeler\Visual Studio 2013\Projects\KanBagisSistemi\KanBagisSistemi\obj\Debug\KanBagisSistemi.pdb
+C:\Users\M.Tahir\OneDrive\Belgeler\Visual Studio 2013\Projects\KanBagisSistemi\KanBagisSistemi\obj\Debug\KanBagisSistemi.Form2.resources
+C:\Users\M.Tahir\OneDrive\Masaüstü\KanBagisSistemi\KanBagisSistemi\bin\Debug\KanBagisSistemi.exe.config
+C:\Users\M.Tahir\OneDrive\Masaüstü\KanBagisSistemi\KanBagisSistemi\bin\Debug\KanBagisSistemi.exe
+C:\Users\M.Tahir\OneDrive\Masaüstü\KanBagisSistemi\KanBagisSistemi\bin\Debug\KanBagisSistemi.pdb
+C:\Users\M.Tahir\OneDrive\Masaüstü\KanBagisSistemi\KanBagisSistemi\obj\Debug\KanBagisSistemi.csprojAssemblyReference.cache
+C:\Users\M.Tahir\OneDrive\Masaüstü\KanBagisSistemi\KanBagisSistemi\obj\Debug\KanBagisSistemi.Form1.resources
+C:\Users\M.Tahir\OneDrive\Masaüstü\KanBagisSistemi\KanBagisSistemi\obj\Debug\KanBagisSistemi.Form2.resources
+C:\Users\M.Tahir\OneDrive\Masaüstü\KanBagisSistemi\KanBagisSistemi\obj\Debug\KanBagisSistemi.Properties.Resources.resources
+C:\Users\M.Tahir\OneDrive\Masaüstü\KanBagisSistemi\KanBagisSistemi\obj\Debug\KanBagisSistemi.csproj.GenerateResource.cache
+C:\Users\M.Tahir\OneDrive\Masaüstü\KanBagisSistemi\KanBagisSistemi\obj\Debug\KanBagisSistemi.csproj.CoreCompileInputs.cache
+C:\Users\M.Tahir\OneDrive\Masaüstü\KanBagisSistemi\KanBagisSistemi\obj\Debug\KanBagisSistemi.exe
+C:\Users\M.Tahir\OneDrive\Masaüstü\KanBagisSistemi\KanBagisSistemi\obj\Debug\KanBagisSistemi.pdb
