@@ -11,3 +11,7 @@ C# kullanılarak hazırlanmış basit bir kan bağış sistemi otomasyonudur.
 -Donör Silme ( Sistemde bulunan hasta telefon numarasına bağlı olarak donör silme)
 
 -Donör Güncelleme (Telefon numarasına göre donör arama ve donör bulunduktan sonra Donör Bilgileri ve İletişim Bilgileri girildikten sonra güncelleme işleminin yapılması)
+
+Veritabanına Giriş İçin
+Kullanıcı Adı:admin
+Şifre:1234
